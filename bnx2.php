@@ -1,7 +1,7 @@
 {
-    "title": "bein sports x2",
-    "stream_url": "https:\/\/todtv-live-spo-prod.akamaized.net\/Content\/Channel\/svc-spo-hd-18-dt\/DASH\/playlist.mpd?hdnts=st=1742501195~exp=1742677595~acl=*\/Content\/Channel\/svc-spo-hd-18-dt\/DASH\/*~id=9DJC2AMWXMT8~data=aXA9MTU2LjE3OC4zMi40Ng~hmac=68704a9a1400cb0d0a1288cb34e02559ee4ed88825010a63d3e3b6ec7193e53e",
+    "title": "bein sports 2",
+    "stream_url": "https:\/\/todtv-live-ent-prod.akamaized.net\/Content\/Channel\/svc-spo-hd-09-dt\/DASH\/playlist_tv.mpd?hdnts=st=1742626023~exp=1742802423~acl=*\/Content\/Channel\/svc-spo-hd-09-dt\/DASH\/*~id=9HCDZELMW3RE~data=aXA9MTkzLjEwOC4xMzAuMjI~hmac=a84673ef48879023c9316e4deeaeb6771cf4ae1ad056117a92a96d194f1e8f3e",
     "drm_keys": {
-        " c800955c66bc3690af22486d2d5bce75": "014ff13e55476109eeff11aaf5270f6a"
+        "462b64d0595b3838b4d68eb0e6c59448": "b4d30d1bfe81d4cffc52790bb6c5d979"
     }
 }
